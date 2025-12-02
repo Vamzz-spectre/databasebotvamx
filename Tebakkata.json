@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "soal": "asteroid",
+    "clue": "Benda langit berbatu yang melintas bebas di luar angkasa, kadang mendekati planet.",
+    "pattern": "a__e__i_",
+    "jawaban": "asteroid"
+  },
+  {
+    "id": 2,
+    "soal": "kriptografi",
+    "clue": "Ilmu yang mempelajari cara menyembunyikan dan mengamankan pesan dari pihak tidak berwenang.",
+    "pattern": "k_i_t_g_a_i",
+    "jawaban": "kriptografi"
+  },
+  {
+    "id": 3,
+    "soal": "algoritma",
+    "clue": "Serangkaian instruksi logis untuk memecahkan masalah secara terstruktur.",
+    "pattern": "a_g_r_t_a",
+    "jawaban": "algoritma"
+  },
+  {
+    "id": 4,
+    "soal": "nebulosa",
+    "clue": "Awan gas dan debu di luar angkasa tempat bintang baru terbentuk.",
+    "pattern": "n_b_l_s_",
+    "jawaban": "nebulosa"
+  },
+  {
+    "id": 5,
+    "soal": "paradigma",
+    "clue": "Cara pandang dasar seseorang atau kelompok terhadap suatu hal.",
+    "pattern": "p_r_d_g_a",
+    "jawaban": "paradigma"
+  },
+  {
+    "id": 6,
+    "soal": "kompleksitas",
+    "clue": "Situasi yang memiliki banyak elemen dan saling terhubung sehingga sulit dipahami.",
+    "pattern": "k_m_l_k_i_a_",
+    "jawaban": "kompleksitas"
+  },
+  {
+    "id": 7,
+    "soal": "metafora",
+    "clue": "Perbandingan tidak langsung untuk memberikan gambaran lebih kuat.",
+    "pattern": "m_t_f_r_",
+    "jawaban": "metafora"
+  },
+  {
+    "id": 8,
+    "soal": "filosofi",
+    "clue": "Kajian mendalam mengenai hakikat kehidupan, pengetahuan, dan keberadaan.",
+    "pattern": "f_l_s_f_",
+    "jawaban": "filosofi"
+  },
+  {
+    "id": 9,
+    "soal": "refleksi",
+    "clue": "Proses merenungi kembali pengalaman untuk memahami maknanya.",
+    "pattern": "r_f_e_s_",
+    "jawaban": "refleksi"
+  },
+  {
+    "id": 10,
+    "soal": "sintesis",
+    "clue": "Penggabungan beberapa unsur menjadi satu bentuk yang baru.",
+    "pattern": "s_n_e_i_",
+    "jawaban": "sintesis"
+  },
+  {
+    "id": 11,
+    "soal": "arsitektur",
+    "clue": "Seni dan teknik merancang serta membangun struktur fisik.",
+    "pattern": "a_s_t_k_u_",
+    "jawaban": "arsitektur"
+  },
+  {
+    "id": 12,
+    "soal": "transenden",
+    "clue": "Melampaui batas pemahaman atau persepsi biasa.",
+    "pattern": "t_a_s_n_e_",
+    "jawaban": "transenden"
+  },
+  {
+    "id": 13,
+    "soal": "kronologi",
+    "clue": "Urutan kejadian berdasarkan waktu terjadinya.",
+    "pattern": "k_r_n_l_g_",
+    "jawaban": "kronologi"
+  },
+  {
+    "id": 14,
+    "soal": "propaganda",
+    "clue": "Penyebaran informasi untuk memengaruhi opini publik.",
+    "pattern": "p_o_a_a_d_",
+    "jawaban": "propaganda"
+  },
+  {
+    "id": 15,
+    "soal": "ekstraksi",
+    "clue": "Proses mengambil zat tertentu dari bahan campuran.",
+    "pattern": "e_k_r_k_i",
+    "jawaban": "ekstraksi"
+  },
+  {
+    "id": 16,
+    "soal": "renovasi",
+    "clue": "Pembaruan atau perbaikan suatu bangunan agar lebih layak.",
+    "pattern": "r_n_v_s_",
+    "jawaban": "renovasi"
+  },
+  {
+    "id": 17,
+    "soal": "observasi",
+    "clue": "Pengamatan cermat untuk mengumpulkan informasi.",
+    "pattern": "o_s_r_v_s_",
+    "jawaban": "observasi"
+  },
+  {
+    "id": 18,
+    "soal": "hipotesis",
+    "clue": "Pernyataan sementara yang harus diuji kebenarannya.",
+    "pattern": "h_p_t_s_s",
+    "jawaban": "hipotesis"
+  },
+  {
+    "id": 19,
+    "soal": "analogi",
+    "clue": "Penjelasan menggunakan persamaan sifat antara dua hal yang berbeda.",
+    "pattern": "a_a_o_i",
+    "jawaban": "analogi"
+  },
+  {
+    "id": 20,
+    "soal": "simetri",
+    "clue": "Keselarasan dua sisi yang memiliki bentuk sama.",
+    "pattern": "s_m_t_i",
+    "jawaban": "simetri"
+  },
+  {
+    "id": 21,
+    "soal": "variabel",
+    "clue": "Nilai yang dapat berubah dalam sistem penelitian atau perhitungan.",
+    "pattern": "v_r_a_e_",
+    "jawaban": "variabel"
+  },
+  {
+    "id": 22,
+    "soal": "fundamental",
+    "clue": "Hal dasar yang sangat penting bagi keberlangsungan suatu sistem.",
+    "pattern": "f_n_a_e_t_l",
+    "jawaban": "fundamental"
+  },
+  {
+    "id": 23,
+    "soal": "kompatibel",
+    "clue": "Dua hal yang mampu bekerja bersama tanpa konflik.",
+    "pattern": "k_m_a_i_e_",
+    "jawaban": "kompatibel"
+  },
+  {
+    "id": 24,
+    "soal": "hiperbola",
+    "clue": "Gaya bahasa melebih-lebihkan untuk memberi kesan dramatis.",
+    "pattern": "h_p_r_o_a",
+    "jawaban": "hiperbola"
+  },
+  {
+    "id": 25,
+    "soal": "sinkron",
+    "clue": "Terjadi pada waktu yang sama secara harmonis.",
+    "pattern": "s_n_k_o_",
+    "jawaban": "sinkron"
+  },
+  {
+    "id": 26,
+    "soal": "konsensus",
+    "clue": "Kesepakatan bersama setelah diskusi.",
+    "pattern": "k_n_s_n_u_",
+    "jawaban": "konsensus"
+  },
+  {
+    "id": 27,
+    "soal": "ambiguitas",
+    "clue": "Keadaan ketika sesuatu memiliki lebih dari satu makna.",
+    "pattern": "a_b_g_i_a_",
+    "jawaban": "ambiguitas"
+  },
+  {
+    "id": 28,
+    "soal": "persepsi",
+    "clue": "Cara seseorang memahami atau menafsirkan sesuatu.",
+    "pattern": "p_r_e_s_",
+    "jawaban": "persepsi"
+  },
+  {
+    "id": 29,
+    "soal": "estetika",
+    "clue": "Ilmu tentang keindahan dan seni.",
+    "pattern": "e_s_t_k_",
+    "jawaban": "estetika"
+  },
+  {
+    "id": 30,
+    "soal": "anomali",
+    "clue": "Kejadian yang menyimpang dari kebiasaan umum.",
+    "pattern": "a_n_m_l_",
+    "jawaban": "anomali"
+  },
+  {
+    "id": 31,
+    "soal": "strategi",
+    "clue": "Rencana terarah untuk mencapai tujuan tertentu.",
+    "pattern": "s_r_t_g_",
+    "jawaban": "strategi"
+  },
+  {
+    "id": 32,
+    "soal": "deduksi",
+    "clue": "Penarikan kesimpulan dari hal umum menuju hal khusus.",
+    "pattern": "d_d_k_i",
+    "jawaban": "deduksi"
+  },
+  {
+    "id": 33,
+    "soal": "dialektika",
+    "clue": "Proses mempertentangkan dua gagasan untuk memperoleh kebenaran.",
+    "pattern": "d_a_e_t_k_",
+    "jawaban": "dialektika"
+  },
+  {
+    "id": 34,
+    "soal": "relativitas",
+    "clue": "Konsep ilmiah yang menyatakan bahwa ruang dan waktu bergantung pada pengamat.",
+    "pattern": "r_l_t_v_t_s",
+    "jawaban": "relativitas"
+  },
+  {
+    "id": 35,
+    "soal": "hipersensitif",
+    "clue": "Reaksi berlebihan terhadap rangsangan tertentu.",
+    "pattern": "h_p_r_s_n_t_f",
+    "jawaban": "hipersensitif"
+  },
+  {
+    "id": 36,
+    "soal": "akselerasi",
+    "clue": "Perubahan kecepatan dalam selang waktu tertentu.",
+    "pattern": "a_k_e_e_a_i",
+    "jawaban": "akselerasi"
+  },
+  {
+    "id": 37,
+    "soal": "kontaminasi",
+    "clue": "Masuknya zat asing yang membuat sesuatu menjadi tidak murni.",
+    "pattern": "k_n_a_i_a_i",
+    "jawaban": "kontaminasi"
+  },
+  {
+    "id": 38,
+    "soal": "generatif",
+    "clue": "Kemampuan menciptakan atau menghasilkan sesuatu baru.",
+    "pattern": "g_n_r_t_f",
+    "jawaban": "generatif"
+  },
+  {
+    "id": 39,
+    "soal": "indikator",
+    "clue": "Penanda atau parameter untuk mengukur suatu kondisi.",
+    "pattern": "i_d_k_t_r",
+    "jawaban": "indikator"
+  },
+  {
+    "id": 40,
+    "soal": "negosiasi",
+    "clue": "Proses tawar-menawar untuk mencapai kesepakatan.",
+    "pattern": "n_g_s_s_",
+    "jawaban": "negosiasi"
+  },
+  {
+    "id": 41,
+    "soal": "rekonsiliasi",
+    "clue": "Usaha memulihkan hubungan yang renggang.",
+    "pattern": "r_k_n_s_l_s_",
+    "jawaban": "rekonsiliasi"
+  },
+  {
+    "id": 42,
+    "soal": "asimilasi",
+    "clue": "Proses penyesuaian budaya kelompok minoritas dengan mayoritas.",
+    "pattern": "a_s_m_l_s_",
+    "jawaban": "asimilasi"
+  },
+  {
+    "id": 43,
+    "soal": "kolaborasi",
+    "clue": "Kerja sama untuk mencapai tujuan bersama.",
+    "pattern": "k_l_b_r_s_",
+    "jawaban": "kolaborasi"
+  },
+  {
+    "id": 44,
+    "soal": "reaktivitas",
+    "clue": "Ukuran seberapa mudah suatu zat bereaksi secara kimia.",
+    "pattern": "r_a_t_v_t_s",
+    "jawaban": "reaktivitas"
+  },
+  {
+    "id": 45,
+    "soal": "generalisasi",
+    "clue": "Penarikan kesimpulan umum dari kasus tertentu.",
+    "pattern": "g_n_r_l_s_s_",
+    "jawaban": "generalisasi"
+  },
+  {
+    "id": 46,
+    "soal": "interpretasi",
+    "clue": "Proses memberikan makna atau penjelasan terhadap suatu hal.",
+    "pattern": "i_t_r_r_t_s_",
+    "jawaban": "interpretasi"
+  },
+  {
+    "id": 47,
+    "soal": "koreografi",
+    "clue": "Seni merancang gerakan tari dalam sebuah pertunjukan.",
+    "pattern": "k_r_g_f_",
+    "jawaban": "koreografi"
+  },
+  {
+    "id": 48,
+    "soal": "resonansi",
+    "clue": "Fenomena penguatan getaran ketika frekuensi cocok.",
+    "pattern": "r_s_n_n_i",
+    "jawaban": "resonansi"
+  },
+  {
+    "id": 49,
+    "soal": "kompilasi",
+    "clue": "Pengumpulan berbagai data atau karya menjadi satu kesatuan.",
+    "pattern": "k_m_l_s_",
+    "jawaban": "kompilasi"
+  },
+  {
+    "id": 50,
+    "soal": "manipulasi",
+    "clue": "Tindakan mengubah atau mengendalikan sesuatu demi keuntungan tertentu.",
+    "pattern": "m_n_p_l_s_",
+    "jawaban": "manipulasi"
+  }
+]
